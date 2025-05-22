@@ -59,3 +59,34 @@ git log                # View commit history
 ## ✅ Summary
 
 Git helps manage code. GitHub helps share and work together. Use both to keep your team fast, safe, and in sync.
+
+---
+
+## 🧪 More Useful Git Commands
+
+### 🔁 `git rebase`
+- Reapply commits on top of another base tip.
+- Keeps history clean.
+```bash
+git checkout feature
+git rebase main
+```
+
+### 🔄 `git switch`
+- Easier way to switch branches (modern alternative to `checkout`).
+```bash
+git switch dev
+```
+
+### 🌱 `git switch -c <branch-name>`
+- Create and switch to a new branch.
+```bash
+git switch -c feature-xyz
+```
+
+### 🏷 `git tag`
+- Mark specific points in history as important (e.g., v1.0).
+```bash
+git tag v1.0
+git push origin v1.0
+```
