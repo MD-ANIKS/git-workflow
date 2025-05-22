@@ -1,4 +1,8 @@
 hello world i'm learning how to manage git branches and conflicts
 
-
 another bug is fixed
+
+
+feature added
+
+fixed a bug
