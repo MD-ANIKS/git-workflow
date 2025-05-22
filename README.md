@@ -90,3 +90,5 @@ git switch -c feature-xyz
 git tag v1.0
 git push origin v1.0
 ```
+
+UPDATED README.MD
