@@ -2,7 +2,9 @@ hello world i'm learning how to manage git branches and conflicts
 
 another bug is fixed
 
+another bug is fixed
 
-feature added
+new feature added also fixed a some bug.
 
-fixed a bug
+
+optimize this feature.
